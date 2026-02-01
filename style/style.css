@@ -297,4 +297,44 @@ body {
     font-size: 1.5rem;
     font-weight: lighter;
   }
+
+  /* Classy Rose Gold & Charcoal Theme */
+:root {
+  --primary-color: #b76e79; /* Rose Gold */
+  --bg-color: #1a1a1a;      /* Charcoal */
+  --text-color: #ffffff;
+  --accent-color: #e0ac9d;
+}
+
+body {
+  background-color: var(--bg-color);
+  color: var(--text-color);
+  font-family: 'Inter', 'Segoe UI', sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  margin: 0;
+}
+
+/* Update your container or heart colors to match */
+.heart {
+  fill: var(--primary-color) !important;
+}
+
+button {
+  background: var(--primary-color);
+  border: none;
+  padding: 12px 24px;
+  border-radius: 50px;
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+  transition: transform 0.3s ease;
+}
+
+button:hover {
+  transform: scale(1.05);
+  background: var(--accent-color);
+}
 }
