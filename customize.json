@@ -1,10 +1,10 @@
 {
   "name": "Kritika",
   "greetingText": "System Update: Mom-Mode Initialized 👶",
-  "wishText": "Happy Valentine's Day! You've officially been upgraded from 'Wife' to 'Super-Mom-to-be'. Warning: System may experience sudden reboots for pickles and ice cream. I'm ready to be your 24/7 technical support (and foot massager). ❤️",
+  "wishText": "Happy Valentine's Day! You've officially been upgraded from 'Wife' to 'Super-Mom-to-be'. I'm ready to be your 24/7 technical support (and foot massager). ❤️",
   "imagePath": "img/kritika.jpg",
   "testimony": "Code Review Status: 100% Perfect. Our family's production release is looking like our best work yet!",
-  "outroText": "I love you (and our little 'junior dev') so much!",
+  "outroText": "I love you (and our little 'baby') so much!",
   "replayText": "Re-run Love Script?",
   "footerText": "Built with love by Hardik"
 }
